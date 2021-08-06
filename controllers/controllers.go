@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"rajali.live.com.au/go/go-simple-claims-service/models"
-	claimRepository "rajali.live.com.au/go/go-simple-claims-service/repository/claim"
 	"database/sql"
 	"encoding/json"
+	"go-simple-claims-service/models"
+	claimRepository "go-simple-claims-service/repository/claim"
 	"log"
 	"net/http"
 

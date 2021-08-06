@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/rajali/go-simple-claims-service/controllers"
-	"github.com/rajali/go-simple-claims-service/driver"
-	"github.com/rajali/go-simple-claims-service/models"
+	"go-simple-claims-service/controllers"
+	"go-simple-claims-service/driver"
+	"go-simple-claims-service/models"
 
 	"github.com/gorilla/mux"
 	"github.com/subosito/gotenv"
