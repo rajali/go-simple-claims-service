@@ -1,12 +1,13 @@
 package main
 
 import (
-	"rajali.live.com.au/go/go-simple-claims-service/controllers"
-	"rajali.live.com.au/go/go-simple-claims-service/driver"
-	"rajali.live.com.au/go/go-simple-claims-service/models"
 	"database/sql"
 	"log"
 	"net/http"
+
+	"go-simple-claims-service/controllers"
+	"go-simple-claims-service/driver"
+	"go-simple-claims-service/models"
 
 	"github.com/gorilla/mux"
 	"github.com/subosito/gotenv"
