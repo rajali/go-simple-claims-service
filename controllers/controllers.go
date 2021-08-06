@@ -3,8 +3,8 @@ package controllers
 import (
 	"database/sql"
 	"encoding/json"
-	"go-simple-claims-service/models"
-	claimRepository "go-simple-claims-service/repository/claim"
+	"github.com/rajali/go-simple-claims-service/models"
+	claimRepository "github.com/rajali/go-simple-claims-service/repository/claim"
 	"log"
 	"net/http"
 
