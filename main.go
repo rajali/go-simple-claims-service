@@ -1,9 +1,9 @@
 package main
 
 import (
-	"car-claim-nz/controllers"
-	"car-claim-nz/driver"
-	"car-claim-nz/models"
+	"rajali.live.com.au/go/go-simple-claims-service/controllers"
+	"rajali.live.com.au/go/go-simple-claims-service/driver"
+	"rajali.live.com.au/go/go-simple-claims-service/models"
 	"database/sql"
 	"log"
 	"net/http"

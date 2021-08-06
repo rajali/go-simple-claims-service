@@ -1,7 +1,7 @@
 package claimRepository
 
 import (
-	"car-claim-nz/models"
+	"rajali.live.com.au/go/go-simple-claims-service/models"
 	"database/sql"
 	"log"
 )

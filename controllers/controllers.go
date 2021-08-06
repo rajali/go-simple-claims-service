@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"car-claim-nz/models"
-	claimRepository "car-claim-nz/repository/claim"
+	"rajali.live.com.au/go/go-simple-claims-service/models"
+	claimRepository "rajali.live.com.au/go/go-simple-claims-service/repository/claim"
 	"database/sql"
 	"encoding/json"
 	"log"
