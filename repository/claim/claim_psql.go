@@ -1,7 +1,7 @@
 package claimRepository
 
 import (
-	"go-simple-claims-service/models"
+	"github.com/rajali/go-simple-claims-service/models"
 	"database/sql"
 	"log"
 )
