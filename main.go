@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/rajali/go-simple-claims-service/controllers"
-	"github.com/rajali/go-simple-claims-service/driver"
+	"github.com/rajali/go-simple-claims-service/drivers"
 	"github.com/rajali/go-simple-claims-service/models"
 
 	"github.com/gorilla/mux"
