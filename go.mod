@@ -1,4 +1,4 @@
-module sample.com.au/go-simple-claims-service
+module github.com/rajali/go-simple-claims-service
 
 go 1.16
 
